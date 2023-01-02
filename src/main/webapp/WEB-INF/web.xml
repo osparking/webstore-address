@@ -10,7 +10,7 @@
     <servlet-name>AddressController</servlet-name>
     <url-pattern>/AddressController</url-pattern>
   </servlet-mapping>
-  <display-name>webstore</display-name>
+  <display-name>webstore-address</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
